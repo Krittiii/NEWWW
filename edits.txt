@@ -1,0 +1,5 @@
+ec2-user for amazon ami
+sudo dnf install nginx -y
+(if nginx install doesnt work in amazon)
+npm init -y
+npm install express
